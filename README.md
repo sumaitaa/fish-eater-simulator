@@ -9,8 +9,10 @@ Earned #20 overall rank out of, like, 34. You could say I'm the next Scott Cawth
 ### Stuff not made by me
 #### (Most links are on [itch.io page](https://umaimai.itch.io/fish-eater-simulator), but I won't force you to go there😊)
 * Background music: 
+
 ...Presenterator - Kevin MacLeod (incompetech.com)
 ...Licensed under [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/)
+
 * [Splashing SFX](https://www.youtube.com/watch?v=EtOfbxFXGoo&t=7s) (Plays when player clicks mouse)
 * [Watery(?) SFX](https://www.youtube.com/watch?v=GE_n4x9Jr1g&t=30s) (Plays while the player moves)
 * [Dingding SFX](https://www.youtube.com/watch?v=mLBUH-i5u_Y) (Plays when time is up) 
