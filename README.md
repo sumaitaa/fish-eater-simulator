@@ -11,6 +11,7 @@ Earned #20 overall rank out of, like, 34. You could say I'm the next Scott Cawth
 * Background music: 
 
    Presenterator - Kevin MacLeod (incompetech.com)
+   
    Licensed under [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/)
 
 * [Splashing SFX](https://www.youtube.com/watch?v=EtOfbxFXGoo&t=7s) (Plays when player clicks mouse)
