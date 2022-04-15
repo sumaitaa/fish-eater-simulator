@@ -1,5 +1,6 @@
 # Fish eater simulator
 Earned #20 overall rank out of, like, 34. You could say I'm the next Scott Cawthon, probably 😎
+
 [Play it](https://umaimai.itch.io/fish-eater-simulator "Itch.io page") (you don't have to) 
 
 ### Stuff made by me
